@@ -1,5 +1,9 @@
 # Ex03 To-Do List using JavaScript
+<<<<<<< HEAD
 ## Date: 17.11.2026
+=======
+## Date:
+>>>>>>> 07f2b74b306a0f5e39b268c6500d02011624ea5a
 
 ## AIM
 To create a To-do Application with all features using JavaScript.
@@ -37,6 +41,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 
+<<<<<<< HEAD
 index.html
 ```
 <!DOCTYPE html>
@@ -154,3 +159,11 @@ function addTask() {
 
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
+=======
+
+## OUTPUT
+
+
+## RESULT
+The program for creating To-do list using JavaScript is executed successfully.
+>>>>>>> 07f2b74b306a0f5e39b268c6500d02011624ea5a
